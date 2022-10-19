@@ -1,0 +1,2 @@
+- membuat source code
+- upload ke github
